@@ -1,0 +1,32 @@
+Sorted numbers: 
+
+
+Sorted Numbers from  input2.txt
+ 12
+21
+34
+43
+64
+75
+75
+
+Sorted Numbers from  input1.txt
+ 1
+2
+2
+3
+3
+4
+5
+5
+6
+7
+
+Sorted Numbers from  input3.txt
+ 324
+333
+334
+445
+567
+578
+863
