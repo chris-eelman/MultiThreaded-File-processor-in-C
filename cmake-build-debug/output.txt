@@ -1,32 +1,99 @@
-Sorted numbers: 
+Sorted numbers from all the input files 
 
 
-Sorted Numbers from  input2.txt
- 12
-21
-34
-43
-64
-75
-75
-
-Sorted Numbers from  input1.txt
- 1
+Sorted Numbers from input1.txt
+ 2
+2
+2
 2
 2
 3
 3
 4
+4
+4
+4
+4
+4
+4
+5
 5
 5
 6
+6
+6
+6
 7
+7
+7
+7
+7
+7
+8
+9
+9
 
-Sorted Numbers from  input3.txt
- 324
+Sorted Numbers from input2.txt
+ 9
+11
+12
+13
+21
+22
+23
+23
+33
+34
+34
+34
+43
+54
+54
+56
+64
+65
+65
+67
+67
+75
+75
+86
+87
+87
+89
+93
+95
+98
+99
+
+Sorted Numbers from input3.txt
+ 98
+123
+123
+125
+134
+234
+234
+234
+324
 333
 334
+343
+345
+345
+432
 445
+452
 567
 578
+634
+643
+654
+654
+654
+678
 863
+873
+876
+878
+879
